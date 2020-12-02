@@ -1,1 +1,2 @@
-*.Google Colab linguist-detectable=true
+*.ipynb linguist-detectable=false
+*.GoogleColab linguist-detectable=true
