@@ -15,4 +15,4 @@ In this repository, we will work on Computer Vision related topics with OpenCV a
 - [ ] Object Tracking (<i> tracking objects in videos</i>)
 - [ ] Deep Learning with Computer Vision (<i> Neural networks, Image Classification </i>)
 
-***We will be skip NumPy basics as we will focus more on image basics with Numpy arrays and move from there***
+**We will be skip NumPy basics as we will focus more on image basics with Numpy arrays and move from there**
